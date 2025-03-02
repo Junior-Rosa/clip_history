@@ -1,2 +1,2 @@
 # clip_history
-Histórico de copias facilitados para CLI
+Histórico de copias facilitados para CLI Ubuntu
